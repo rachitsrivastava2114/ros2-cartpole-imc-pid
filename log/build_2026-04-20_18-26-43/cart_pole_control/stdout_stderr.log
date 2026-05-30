@@ -1,0 +1,36 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/rachit-linux/cart_pole_ws/build/cart_pole_control
+-- Install configuration: ""
+-- Installing: /home/rachit-linux/cart_pole_ws/install/cart_pole_control/share/ament_index/resource_index/package_run_dependencies/cart_pole_control
+-- Installing: /home/rachit-linux/cart_pole_ws/install/cart_pole_control/share/ament_index/resource_index/parent_prefix_path/cart_pole_control
+-- Installing: /home/rachit-linux/cart_pole_ws/install/cart_pole_control/share/cart_pole_control/environment/ament_prefix_path.sh
+-- Installing: /home/rachit-linux/cart_pole_ws/install/cart_pole_control/share/cart_pole_control/environment/ament_prefix_path.dsv
+-- Installing: /home/rachit-linux/cart_pole_ws/install/cart_pole_control/share/cart_pole_control/environment/path.sh
+-- Installing: /home/rachit-linux/cart_pole_ws/install/cart_pole_control/share/cart_pole_control/environment/path.dsv
+-- Installing: /home/rachit-linux/cart_pole_ws/install/cart_pole_control/share/cart_pole_control/local_setup.bash
+-- Installing: /home/rachit-linux/cart_pole_ws/install/cart_pole_control/share/cart_pole_control/local_setup.sh
+-- Installing: /home/rachit-linux/cart_pole_ws/install/cart_pole_control/share/cart_pole_control/local_setup.zsh
+-- Installing: /home/rachit-linux/cart_pole_ws/install/cart_pole_control/share/cart_pole_control/local_setup.dsv
+-- Installing: /home/rachit-linux/cart_pole_ws/install/cart_pole_control/share/cart_pole_control/package.dsv
+-- Installing: /home/rachit-linux/cart_pole_ws/install/cart_pole_control/share/ament_index/resource_index/packages/cart_pole_control
+-- Installing: /home/rachit-linux/cart_pole_ws/install/cart_pole_control/share/cart_pole_control/cmake/cart_pole_controlConfig.cmake
+-- Installing: /home/rachit-linux/cart_pole_ws/install/cart_pole_control/share/cart_pole_control/cmake/cart_pole_controlConfig-version.cmake
+-- Installing: /home/rachit-linux/cart_pole_ws/install/cart_pole_control/share/cart_pole_control/package.xml

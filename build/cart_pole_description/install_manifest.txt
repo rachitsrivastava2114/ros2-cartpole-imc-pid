@@ -1,0 +1,16 @@
+/home/rachit-linux/cart_pole_ws/install/cart_pole_description/share/cart_pole_description/urdf/cart_pole.urdf.xacro
+/home/rachit-linux/cart_pole_ws/install/cart_pole_description/share/ament_index/resource_index/package_run_dependencies/cart_pole_description
+/home/rachit-linux/cart_pole_ws/install/cart_pole_description/share/ament_index/resource_index/parent_prefix_path/cart_pole_description
+/home/rachit-linux/cart_pole_ws/install/cart_pole_description/share/cart_pole_description/environment/ament_prefix_path.sh
+/home/rachit-linux/cart_pole_ws/install/cart_pole_description/share/cart_pole_description/environment/ament_prefix_path.dsv
+/home/rachit-linux/cart_pole_ws/install/cart_pole_description/share/cart_pole_description/environment/path.sh
+/home/rachit-linux/cart_pole_ws/install/cart_pole_description/share/cart_pole_description/environment/path.dsv
+/home/rachit-linux/cart_pole_ws/install/cart_pole_description/share/cart_pole_description/local_setup.bash
+/home/rachit-linux/cart_pole_ws/install/cart_pole_description/share/cart_pole_description/local_setup.sh
+/home/rachit-linux/cart_pole_ws/install/cart_pole_description/share/cart_pole_description/local_setup.zsh
+/home/rachit-linux/cart_pole_ws/install/cart_pole_description/share/cart_pole_description/local_setup.dsv
+/home/rachit-linux/cart_pole_ws/install/cart_pole_description/share/cart_pole_description/package.dsv
+/home/rachit-linux/cart_pole_ws/install/cart_pole_description/share/ament_index/resource_index/packages/cart_pole_description
+/home/rachit-linux/cart_pole_ws/install/cart_pole_description/share/cart_pole_description/cmake/cart_pole_descriptionConfig.cmake
+/home/rachit-linux/cart_pole_ws/install/cart_pole_description/share/cart_pole_description/cmake/cart_pole_descriptionConfig-version.cmake
+/home/rachit-linux/cart_pole_ws/install/cart_pole_description/share/cart_pole_description/package.xml

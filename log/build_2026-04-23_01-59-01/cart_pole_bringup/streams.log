@@ -1,0 +1,20 @@
+[0.461s] Invoking command in '/home/rachit-linux/cart_pole_ws/src/cart_pole_bringup': PYTHONPATH=/home/rachit-linux/cart_pole_ws/build/cart_pole_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rachit-linux/cart_pole_ws/install/cart_pole_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/cart_pole_bringup build --build-base /home/rachit-linux/cart_pole_ws/build/cart_pole_bringup/build install --record /home/rachit-linux/cart_pole_ws/build/cart_pole_bringup/install.log --single-version-externally-managed install_data
+[0.619s] running egg_info
+[0.619s] writing ../../build/cart_pole_bringup/cart_pole_bringup.egg-info/PKG-INFO
+[0.620s] writing dependency_links to ../../build/cart_pole_bringup/cart_pole_bringup.egg-info/dependency_links.txt
+[0.620s] writing entry points to ../../build/cart_pole_bringup/cart_pole_bringup.egg-info/entry_points.txt
+[0.620s] writing requirements to ../../build/cart_pole_bringup/cart_pole_bringup.egg-info/requires.txt
+[0.620s] writing top-level names to ../../build/cart_pole_bringup/cart_pole_bringup.egg-info/top_level.txt
+[0.621s] reading manifest file '../../build/cart_pole_bringup/cart_pole_bringup.egg-info/SOURCES.txt'
+[0.621s] writing manifest file '../../build/cart_pole_bringup/cart_pole_bringup.egg-info/SOURCES.txt'
+[0.621s] running build
+[0.621s] running build_py
+[0.621s] running install
+[0.622s] running install_lib
+[0.622s] running install_data
+[0.623s] running install_egg_info
+[0.624s] removing '/home/rachit-linux/cart_pole_ws/install/cart_pole_bringup/lib/python3.10/site-packages/cart_pole_bringup-0.0.0-py3.10.egg-info' (and everything under it)
+[0.624s] Copying ../../build/cart_pole_bringup/cart_pole_bringup.egg-info to /home/rachit-linux/cart_pole_ws/install/cart_pole_bringup/lib/python3.10/site-packages/cart_pole_bringup-0.0.0-py3.10.egg-info
+[0.624s] running install_scripts
+[0.638s] writing list of installed files to '/home/rachit-linux/cart_pole_ws/build/cart_pole_bringup/install.log'
+[0.655s] Invoked command in '/home/rachit-linux/cart_pole_ws/src/cart_pole_bringup' returned '0': PYTHONPATH=/home/rachit-linux/cart_pole_ws/build/cart_pole_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rachit-linux/cart_pole_ws/install/cart_pole_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/cart_pole_bringup build --build-base /home/rachit-linux/cart_pole_ws/build/cart_pole_bringup/build install --record /home/rachit-linux/cart_pole_ws/build/cart_pole_bringup/install.log --single-version-externally-managed install_data

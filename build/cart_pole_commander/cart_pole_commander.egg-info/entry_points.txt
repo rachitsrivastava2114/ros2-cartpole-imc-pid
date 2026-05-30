@@ -1,0 +1,5 @@
+[console_scripts]
+cart_pole_controller = cart_pole_commander.cart_pole_controller:main
+cart_pole_csv = cart_pole_commander.cart_pole_csv:main
+cart_pole_logger = cart_pole_commander.cart_pole_logger:main
+

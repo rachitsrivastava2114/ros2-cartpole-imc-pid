@@ -1,0 +1,8 @@
+source;share/cart_pole_description/hook/cmake_prefix_path.ps1
+source;share/cart_pole_description/hook/cmake_prefix_path.dsv
+source;share/cart_pole_description/hook/cmake_prefix_path.sh
+source;share/cart_pole_description/local_setup.bash
+source;share/cart_pole_description/local_setup.dsv
+source;share/cart_pole_description/local_setup.ps1
+source;share/cart_pole_description/local_setup.sh
+source;share/cart_pole_description/local_setup.zsh
